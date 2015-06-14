@@ -27,6 +27,9 @@ favicon: //dn-glibs.qbox.me/bookcase/img/deer3.png
 #  id: UA-54262064-1 
 #  url: painterlin.com
 
+ba:
+  id: 2f0f4b0d867163a00886350ad2c21f8c 
+
 # disqus 设置
 disqus:
   shortname: gehaowu
