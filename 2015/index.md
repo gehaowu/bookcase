@@ -10,7 +10,7 @@ books:
       publisher: 电子工业出版社
       language: 中文
       link: http://book.douban.com/subject/25708312/
-      cover: http://img3.douban.com/lpic/s27294664.jpg
+      cover: //dn-glibs.qbox.me/bookcase/books/s27294664.jpg
       description: 
     - title: 数学之美
       status: 已读
@@ -18,7 +18,7 @@ books:
       publisher: 人民邮电出版社
       language: 中文
       link: http://book.douban.com/subject/10750155/
-      cover: http://img3.douban.com/lpic/s9114855.jpg
+      cover: //dn-glibs.qbox.me/bookcase/books/s9114855.jpg
       description: 
     - title: 量化投资策略
       status: 未读
@@ -26,7 +26,7 @@ books:
       publisher: 上海交通大学出版社
       language: 中文
       link: http://book.douban.com/subject/24698948/
-      cover: http://img3.douban.com/lpic/s26717153.jpg
+      cover: //dn-glibs.qbox.me/bookcase/books/s26717153.jpg
       description: 
     - title: 不能承受的生命之轻
       status: 已读
@@ -34,7 +34,7 @@ books:
       publisher: 上海译文出版社
       language: 中文
       link: http://book.douban.com/subject/4920007/
-      cover: http://img3.douban.com/lpic/s4421443.jpg
+      cover: //dn-glibs.qbox.me/bookcase/books/s4421443.jpg
       description: 2011年在成都最大的书店无意中发现这本书的英文版，非常激动地买了下来。没想到这断断续续地阅读，直到2015年初才完整看完中文版。读这本书是比较眩晕而奇妙的，如果第一次读建议还是中文吧。读书所有的意义不是说看透什么本质，而是看透后更加用力的活着。又是同样的感觉，明知思维终止的那一天什么都不再有意义，但仍然想更多地填满自己。
     - title: 断舍离
       status: 已读
@@ -42,7 +42,7 @@ books:
       publisher: 广西科学技术出版社
       language: 中文
       link: http://book.douban.com/subject/24749465/
-      cover: http://img4.douban.com/lpic/s26872396.jpg
+      cover: //dn-glibs.qbox.me/bookcase/books/s26872396.jpg
       description: 1月6日AMSS元旦会唱歌的奖品。道理谁都懂，如果真要把人生看成是一个优化问题，约束总是可以通过各种方法满足。比如一个各方面参数都差不多的人来作为the one的松弛。可至少今天我还不想那么做，我还是想留一些当下不需要的东西。
     - title: 我与地坛
       status: 已读
@@ -50,7 +50,7 @@ books:
       publisher: 人民文学出版社
       language: 中文
       link: http://book.douban.com/subject/5910656/
-      cover: http://img4.douban.com/lpic/s4594868.jpg
+      cover: //dn-glibs.qbox.me/bookcase/books/s4594868.jpg
       description: 我甚至现在就能清楚地看见，一旦有一天我不得不长久地离开它，我会怎样想念它，我会怎样想念它并且梦见它，我会怎样因为不敢想念它而梦也梦不到它。宇宙以其不息的欲望将一个歌舞炼为永恒。这欲望有怎样一个人间的姓名，大可忽略不计。每个人的地坛都不一样吧，到最后，也不是我在地坛，而是地坛在我。
 ---
 
