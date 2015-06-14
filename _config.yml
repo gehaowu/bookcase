@@ -20,7 +20,7 @@ rss_url: atom.xml
 
 # gavatar头像及Favicon
 gavatar: //dn-glibs.qbox.me/bookcase/img/deer3.png
-favicon: //dn-glibs.qbox.me/bookcase/img/deer3.png
+favicon: //www.gehaowu.com/favicon.ico
 
 # google analytics 设置
 #ga:
