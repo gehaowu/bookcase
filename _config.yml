@@ -15,7 +15,7 @@ author:
 # 站点信息
 title: 我的互联网图书库！
 description: My internet library!
-url: http://bookcase.gehaowu.eu.org/bookcase/
+url: https://www.gehaowu.com/bookcase/
 rss_url: atom.xml
 
 # gavatar头像及Favicon
@@ -28,7 +28,7 @@ favicon: //www.gehaowu.com/favicon.ico
 #  url: painterlin.com
 
 ba:
-  id: 2f0f4b0d867163a00886350ad2c21f8c 
+  id: 2f0f4b0d867163a00886350ad2c21f8c
 
 # disqus 设置
 disqus:
