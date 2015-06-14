@@ -13,10 +13,10 @@ author:
   linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
-title: 书架
-description: My personal blog
+title: 我的互联网图书库！
+description: My internet library!
 url: http://bookcase.gehaowu.eu.org
-rss_url: /pages/atom.xml
+rss_url: /atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/deer3.png

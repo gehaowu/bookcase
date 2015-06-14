@@ -3,36 +3,77 @@ layout: page_title
 title: <i class="fa fa-home fa-lg"></i>
 titlename: 首页
 ---
-<!--<br>--> 
-<center><h3><font color="#000080">怕</font><font color="#FFA500">什</font><font color="#2E8B57">么</font><font color="#F08080">真</font><font color="#00CED1">理</font><font color="red">无</font><font color="#BA55D3">穷, </font><font color="#601986">进</font><font color="#556fb5">一</font><font color="#fa1089">寸</font><font color="#638c0b">有</font><font color="#e00089">一</font><font color="#0a1089">寸</font><font color="#f0c089">的</font><font color="#00c380">欢</font><font color="#cc1089">喜</font></h3></center>
-<div class="row">
-  <div class="col-md-12">
-    <div class="panel panel-primary">
-      <div class="panel-heading">{{ site.locals.newest }}</div>
-      {% for post in paginator.posts %}
-        <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
-          {{post.title}}
-          <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
+<!--<br>-->
+<center>
+    <h3>
+        <font color="#000080">
+            欢
+        </font>
+        <font color="#FFA500">
+            迎
+        </font>
+        <font color="#2E8B57">
+            来
+        </font>
+        <font color="#F08080">
+            到
+        </font>
+        <font color="#00CED1">
+            我
+        </font>
+        <font color="red">
+            的
+        </font>
+        <font color="#BA55D3">
+            互
+        </font>
+        <font color="#601986">
+            联
+        </font>
+        <font color="#556fb5">
+            图
+        </font>
+        <font color="#fa1089">
+            书
+        </font>
+        <font color="#638c0b">
+            库
+        </font>
+        <font color="#e00089">
+            ！
+        </font>
+    </h3>
+</center>
+<h1>
+    Hello All，我是
+    <a href="//www.gehaowu.com/">
+        Haowu Ge
+    </a>
+</h1>
+<p>
+    我是一名会计，这里是我的互联网图书库，关于我的更多信息请移步
+    <a href="//www.gehaowu.com/aboutme/">
+        关于我
+    </a>
+    。
+</p>
+<h2>
+    /* 我的一些项目 *\
+</h2>
+<ul>
+    <li>
+        <a href="https://www.gehaowu.com/" target="_blank">
+            Ge Haowu's Personal Website!
         </a>
-      {% endfor %}
-    </div>
-  </div>
-  {% for cate in site.cates %}
-    <div class="col-md-12">
-      <div class="panel panel-primary">
-        <div class="panel-heading">{{ cate }}</div>
-        {% for tag in site.tags %} 
-          {% if tag[0] == cate %}
-            {% for post in tag[1] %}
-              <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
-                {{post.title}}
-                <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
-              </a>
-            {% endfor %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  {% endfor %}
-</div>
- 
+    </li>
+    <li>
+        <a href="https://www.gehaowu.com/albums/" target="_blank">
+            albums for HAOWU GE
+        </a>
+    </li>
+    <li>
+        <a href="https://www.gehaowu.com/blog/" target="_blank">
+            等一个晴天（博客）
+        </a>
+    </li>
+</ul>
