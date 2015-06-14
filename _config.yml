@@ -4,11 +4,11 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
+  name: Haowu Ge
   email: lay.1010@hotmail.com
   link: http://bookcase.gehaowu.eu.org
   weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
+  github: http://github.com/ghw
   music: http://site.douban.com/linanya
   linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
@@ -42,6 +42,6 @@ cates:
 # 中文本地化
 locals:
   tags: 标签
-  about: 关于
+  about: AboutMe
   newest: 最新文章
-  archive: 归档
+  archive: Archive
